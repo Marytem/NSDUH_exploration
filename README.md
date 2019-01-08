@@ -4,6 +4,7 @@ Final project for UCU dataprocessing course
 In this project dataprocessing techniques are used to work with NSDUH2016 data.
 
 WORKFLOW: 
+
           1. observe_data.ipynb
 
           2. data_preparation.ipynb
