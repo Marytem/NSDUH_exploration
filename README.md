@@ -16,6 +16,6 @@ WORKFLOW:
 
           3. data_processing.ipynb
 
-          4. classification.ipynb
+          4. final_datasets_creation.ipynb
 
-          5. visualisation.ipynb
+          5. classification_visualisation.ipynb
