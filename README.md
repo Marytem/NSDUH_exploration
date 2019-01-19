@@ -10,6 +10,7 @@ I generated 13 binary target variables based on specific survey questions. Each 
 I predict these generated targets on two types of data - data without info about certain drug usage, and data wothout any info about any drug usage. The data is redused using Factor analysis and features were selected using Stepwise Forward Selection.
 
 for more information see Report.pdf file.
+
 Notebooks as they were created: 
 
           1. observe_data.ipynb   - a notebook with description of data, "first glance" on the dataset, its columns and values.
